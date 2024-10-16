@@ -140,3 +140,4 @@ D:\1LABS\BD\Lab_3\WebCityEvents\obj\Debug\net8.0\refint\WebCityEvents.dll
 D:\1LABS\BD\Lab_3\WebCityEvents\obj\Debug\net8.0\WebCityEvents.pdb
 D:\1LABS\BD\Lab_3\WebCityEvents\obj\Debug\net8.0\WebCityEvents.genruntimeconfig.cache
 D:\1LABS\BD\Lab_3\WebCityEvents\obj\Debug\net8.0\ref\WebCityEvents.dll
+D:\1LABS\BD\Lab_3\WebCityEvents\obj\Debug\net8.0\WebCityEvents.sourcelink.json
